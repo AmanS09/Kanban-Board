@@ -56,13 +56,13 @@ The frontend will start running on http://localhost:5173.
 ## Images
 
 1. **Homepage**
-   ![Screenshot (83)](https://github.com/user-attachments/assets/5b754dc7-bca8-4b8d-a8b4-ae91206e57b6)
+![Screenshot (83)](https://github.com/user-attachments/assets/e5f64b46-071f-4218-be13-95d4a15886dc)
 
 3. **Create-Task**
-    ![Screenshot (84)](https://github.com/user-attachments/assets/2ef6ce35-91cc-4879-a1a1-7d71d0568838)
+![Screenshot (84)](https://github.com/user-attachments/assets/b1e7bb82-1bd8-4246-bf95-899fbf34ebe6)
 
 4. **Edit-Task**
-  ![Screenshot (86)](https://github.com/user-attachments/assets/0b0505ec-7b0c-44fe-94af-83ccaa9daa11)
+![Screenshot (85)](https://github.com/user-attachments/assets/27e2188d-31f1-4900-9154-b25a1a5e3adb)
 
-5. **Status Change**
-    ![Screenshot (85)](https://github.com/user-attachments/assets/dd09407c-f928-4bc3-984a-326cc96d7508)
+6. **Status Change**
+![Screenshot (86)](https://github.com/user-attachments/assets/b320f3fd-2640-4277-96ff-a8bafe306822)
