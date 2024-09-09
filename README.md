@@ -4,7 +4,7 @@
 
  A Kanban board is a visual tool for managing workflow by displaying tasks as cards moving through columns representing different stages, such as "To Do," "In Progress," and "Done.". The project is built with React.js, JavaScript, Tailwind CSS, and is deployed using Vercel.
 
-### Notion Page:  [(https://sky-outrigger-3df.notion.site/Frontend-Task-Kanban-Board-2d5b87bca623423f99181cdf1cdb36d5)] 
+### Notion Page:  [https://sky-outrigger-3df.notion.site/Frontend-Task-Kanban-Board-2d5b87bca623423f99181cdf1cdb36d5] 
 
 ### Demo Link: [Live Demo](https://kanbann-board.vercel.app/)
 
